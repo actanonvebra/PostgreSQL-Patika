@@ -13,7 +13,7 @@ film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99, 2.99, 4.99
 ( IN operatörünü kullanınız.)
 
 Kolay Gelsin.
-*/
+*/ 
 --1
 Select * from film
 Where replacement_cost Between 12.99 And 16.99
