@@ -25,7 +25,7 @@ Where country LIKE 'A%a';
 
 --2 ++
 Select country From country
-Where country ILIKE '%_____n'
+Where country ILIKE '%_____n';
 
 --3 ++
 Select * From film
