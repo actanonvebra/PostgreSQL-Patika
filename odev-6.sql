@@ -1,5 +1,4 @@
 --1. film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
-
 SELECT AVG(rental_rate) FROM film;
 
 --2. film tablosunda bulunan filmlerden kaç tanesi 'C' karakteri ile başlar?
